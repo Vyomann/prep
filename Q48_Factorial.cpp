@@ -17,3 +17,4 @@ int main(){
     }
     return 0;
 }
+// tc:O(n) bcoz loop execute n times for +ve n || sc:O(1)  bcoz used constant no. of variables
